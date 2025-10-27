@@ -5,12 +5,16 @@
   "scripts": {
     "dev": "astro dev",
     "generate:db": "bun scripts/generate-db-config.mjs",
+    "prepare": "husky",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
   "dependencies": {
     "@astrojs/db": "^0.18.1",
-    "astro": "^5.15.1"
+    "@commitlint/config-conventional": "^20.0.0",
+    "astro": "^5.15.1",
+    "husky": "^9.1.7",
+    "semantic-release": "^25.0.1"
   }
 }
