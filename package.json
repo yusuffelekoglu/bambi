@@ -4,11 +4,13 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
+    "generate:db": "bun scripts/generate-db-config.mjs",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/db": "^0.18.1",
     "astro": "^5.15.1"
   }
 }
