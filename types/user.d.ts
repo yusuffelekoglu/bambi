@@ -1,7 +1,9 @@
 export interface IUser {
-  id: number; //UNIQUE
-  username: string; //PK
+  id: string; //PK
   email: string; //UNIQUE
+  name: string;
+  emailVerified: boolean;
+  image?: string;
   createdAt: Date;
   updatedAt: Date;
 }
