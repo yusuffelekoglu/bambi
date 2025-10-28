@@ -1,3 +1,10 @@
+## [0.1.2](https://github.com/yusuffelekoglu/bambi/compare/v0.1.1...v0.1.2) (2025-10-28)
+
+
+### Bug Fixes
+
+* update redirect URL for OAuth authentication ([e1dc62d](https://github.com/yusuffelekoglu/bambi/commit/e1dc62d9287d16cd0ec9d4fcbf8620a625ed5443))
+
 ## [0.1.1](https://github.com/yusuffelekoglu/bambi/compare/v0.1.0...v0.1.1) (2025-10-28)
 
 
