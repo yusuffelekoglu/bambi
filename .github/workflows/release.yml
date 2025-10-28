@@ -25,8 +25,11 @@ jobs:
         with:
           node-version: "lts/*"
 
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+
       - name: Install dependencies
-        run: npm ci
+        run: bun install
 
       - name: Run semantic-release
         run: npx semantic-release
