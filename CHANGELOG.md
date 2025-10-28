@@ -1,3 +1,10 @@
+## [0.1.1](https://github.com/yusuffelekoglu/bambi/compare/v0.1.0...v0.1.1) (2025-10-28)
+
+
+### Bug Fixes
+
+* update .gitignore and package.json for Vercel integration ([c4fd517](https://github.com/yusuffelekoglu/bambi/commit/c4fd517971ffc6dc4d6aa8436d2c220e2d796137))
+
 # [0.1.0](https://github.com/yusuffelekoglu/bambi/compare/v0.0.1...v0.1.0) (2025-10-28)
 
 
