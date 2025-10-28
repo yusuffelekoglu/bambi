@@ -1,3 +1,10 @@
+# [0.3.0](https://github.com/yusuffelekoglu/bambi/compare/v0.2.5...v0.3.0) (2025-10-28)
+
+
+### Features
+
+* add Google sign-in button to the authentication form ([430819d](https://github.com/yusuffelekoglu/bambi/commit/430819d3d9b59939cef59029bfc929a160bd3aed))
+
 ## [0.2.5](https://github.com/yusuffelekoglu/bambi/compare/v0.2.4...v0.2.5) (2025-10-28)
 
 
