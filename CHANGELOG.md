@@ -1,3 +1,10 @@
+## [0.2.4](https://github.com/yusuffelekoglu/bambi/compare/v0.2.3...v0.2.4) (2025-10-28)
+
+
+### Bug Fixes
+
+* update supabase client configuration for improved session management ([78f1c33](https://github.com/yusuffelekoglu/bambi/commit/78f1c337c90f93525485641acc385d75350bfdb4))
+
 ## [0.2.3](https://github.com/yusuffelekoglu/bambi/compare/v0.2.2...v0.2.3) (2025-10-28)
 
 
