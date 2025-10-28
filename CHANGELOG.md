@@ -1,3 +1,10 @@
+# [0.2.0](https://github.com/yusuffelekoglu/bambi/compare/v0.1.3...v0.2.0) (2025-10-28)
+
+
+### Features
+
+* integrate Cloudflare adapter and add Wrangler configuration ([b451dd6](https://github.com/yusuffelekoglu/bambi/commit/b451dd643456358c6b61e4974012ca461e3ea509))
+
 ## [0.1.3](https://github.com/yusuffelekoglu/bambi/compare/v0.1.2...v0.1.3) (2025-10-28)
 
 
