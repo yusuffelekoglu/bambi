@@ -29,3 +29,7 @@ bun.lock
 
 # vercel build output
 .vercel/
+
+# wrangler
+.worker
+.wrangler
