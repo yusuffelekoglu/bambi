@@ -1,5 +1,16 @@
 {
-  "name": "bambi",
+	"main": "dist/_worker.js/index.js",
+	"name": "bambi",
   "compatibility_date": "2025-10-28",
-  "pages_build_output_dir": "./dist"
+  "compatibility_flags": [
+    "nodejs_compat",
+    "global_fetch_strictly_public"
+  ],
+	"assets": {
+		"binding": "ASSETS",
+		"directory": "./dist"
+	},
+	"observability": {
+    "enabled": true
+  }
 }
