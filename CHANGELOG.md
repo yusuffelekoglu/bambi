@@ -1,3 +1,10 @@
+## [0.3.1](https://github.com/yusuffelekoglu/bambi/compare/v0.3.0...v0.3.1) (2025-10-28)
+
+
+### Bug Fixes
+
+* ensure keep_vars is set to true in wrangler configuration ([7029786](https://github.com/yusuffelekoglu/bambi/commit/7029786b4d0a08336f7c07180ce8b7f948734169))
+
 # [0.3.0](https://github.com/yusuffelekoglu/bambi/compare/v0.2.5...v0.3.0) (2025-10-28)
 
 
