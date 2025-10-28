@@ -1,3 +1,10 @@
+## [0.1.3](https://github.com/yusuffelekoglu/bambi/compare/v0.1.2...v0.1.3) (2025-10-28)
+
+
+### Bug Fixes
+
+* update Supabase client configuration and adjust cookie settings in authentication flow ([39c09da](https://github.com/yusuffelekoglu/bambi/commit/39c09dacd6f0e73e091fb044f77b156cbefe09d1))
+
 ## [0.1.2](https://github.com/yusuffelekoglu/bambi/compare/v0.1.1...v0.1.2) (2025-10-28)
 
 
