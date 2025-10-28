@@ -11,4 +11,5 @@ export default defineConfig({
   },
   output: "server",
   adapter: cloudflare(),
+  site: import.meta.env.FRONTEND_URL,
 });
