@@ -1,3 +1,10 @@
+## [0.2.5](https://github.com/yusuffelekoglu/bambi/compare/v0.2.4...v0.2.5) (2025-10-28)
+
+
+### Bug Fixes
+
+* update redirect URL in sign-in process and remove unused type definitions ([6e07292](https://github.com/yusuffelekoglu/bambi/commit/6e07292278a23690645356a377b160685ba656d9))
+
 ## [0.2.4](https://github.com/yusuffelekoglu/bambi/compare/v0.2.3...v0.2.4) (2025-10-28)
 
 
