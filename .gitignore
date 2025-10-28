@@ -26,3 +26,6 @@ bun-debug.log*
 
 # bun lock file
 bun.lock
+
+# vercel build output
+.vercel/
