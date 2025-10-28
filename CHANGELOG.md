@@ -1,3 +1,10 @@
+## [0.2.2](https://github.com/yusuffelekoglu/bambi/compare/v0.2.1...v0.2.2) (2025-10-28)
+
+
+### Bug Fixes
+
+* update wrangler configuration to include compatibility flags and observability settings ([9cd7866](https://github.com/yusuffelekoglu/bambi/commit/9cd7866c4b981addcf05280923c8ee55ee2e9c37))
+
 ## [0.2.1](https://github.com/yusuffelekoglu/bambi/compare/v0.2.0...v0.2.1) (2025-10-28)
 
 
