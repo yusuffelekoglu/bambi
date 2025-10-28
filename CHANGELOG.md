@@ -1,3 +1,10 @@
+## [0.2.1](https://github.com/yusuffelekoglu/bambi/compare/v0.2.0...v0.2.1) (2025-10-28)
+
+
+### Bug Fixes
+
+* simplify wrangler configuration by removing unused fields ([26758b7](https://github.com/yusuffelekoglu/bambi/commit/26758b74d63392ebdfd8cf84edb18a531b96ea5c))
+
 # [0.2.0](https://github.com/yusuffelekoglu/bambi/compare/v0.1.3...v0.2.0) (2025-10-28)
 
 
