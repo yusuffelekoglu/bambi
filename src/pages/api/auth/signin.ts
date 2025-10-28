@@ -8,11 +8,13 @@ export const POST: APIRoute = async ({ request, cookies, redirect }) => {
   const password = formData.get("password")?.toString();
   const provider = formData.get("provider")?.toString();
 
-  if (provider) {
+  const validProviders = ["google", "github", "discord"];
+
+  if (provider && validProviders.includes(provider)) {
     const { data, error } = await supabase.auth.signInWithOAuth({
       provider: provider as Provider,
       options: {
-        redirectTo: import.meta.env.FRONTEND_URL,
+        redirectTo: import.meta.env.FRONTEND_URL + "api/auth/callback"
       },
     });
 
@@ -38,15 +40,10 @@ export const POST: APIRoute = async ({ request, cookies, redirect }) => {
 
   const { access_token, refresh_token } = data.session;
   cookies.set("sb-access-token", access_token, {
-    sameSite: "strict",
     path: "/",
-    secure: true,
   });
   cookies.set("sb-refresh-token", refresh_token, {
-    sameSite: "strict",
     path: "/",
-    secure: true,
   });
-
   return redirect("/dashboard");
 };
