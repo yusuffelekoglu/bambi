@@ -1,3 +1,15 @@
+# [0.1.0](https://github.com/yusuffelekoglu/bambi/compare/v0.0.1...v0.1.0) (2025-10-28)
+
+
+### Bug Fixes
+
+* pm ([4de4674](https://github.com/yusuffelekoglu/bambi/commit/4de4674b47bf4ffc017a64da3402ab0a60e679f2))
+
+
+### Features
+
+* add Tailwind CSS integration and global styles ([4a9bf13](https://github.com/yusuffelekoglu/bambi/commit/4a9bf1399b440981058aef7cf28ebbeecacdcf75))
+
 # 1.0.0 (2025-10-28)
 
 

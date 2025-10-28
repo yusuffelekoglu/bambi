@@ -1,7 +1,7 @@
 {
   "name": "bambi",
   "type": "module",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "scripts": {
     "dev": "astro dev",
     "generate:db": "bun scripts/generate-db-config.mjs",
